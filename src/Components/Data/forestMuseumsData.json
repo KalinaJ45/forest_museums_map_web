@@ -1,0 +1,312 @@
+{
+    "type": "FeatureCollection",
+    "name": "dane",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 645377.97,
+                "Y": 670000.97,
+                "RDLP": "RDLP Białystok",
+                "JEDN": "Nadleśnictwo Maskulińskie",
+                "JEDN_MUZ": "Wyłuszczarnia nasion im. Zdzisława Borońskiego",
+                "KONTAKT": "ul. Rybacka 1,\n12-220 Ruciane-Nida,\ntel. +48 87 42 41 600",
+                "FOTO": "images/img1.jpg",
+                "MAIL": "https://maskulinskie.bialystok.lasy.gov.pl/warto-zobaczyc#.Yt7fHd8whPY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.572705473909512,
+                    53.645555638774049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 607716.57,
+                "Y": 798944.34,
+                "RDLP": "RDLP Białystok",
+                "JEDN": "Nadleśnictwo Supraśl",
+                "JEDN_MUZ": "Małe Muzeum Historii Puszczy Knyszyńskiej",
+                "KONTAKT": "Podsupraśl 8,\n16-030 Supraśl,\ntel. +48 85 71 31 570",
+                "FOTO": "images/img2.jpg",
+                "MAIL": "https://suprasl.bialystok.lasy.gov.pl/muzeum#.Yt7fiN8whPY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.483110372407467,
+                    53.250237848429194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 613425.68,
+                "Y": 784506.73,
+                "RDLP": "RDLP Białystok",
+                "JEDN": "Nadleśnictwo Czarna Białostocka",
+                "JEDN_MUZ": "Ośrodek Edukacji leśnej ”Stara Wyłuszczarnia Nasion”",
+                "KONTAKT": "ul. Marszałkowska  27,\n16-020 Czarna Białostocka, \ntel. +48 85 710 33 80",
+                "FOTO": "images/img3.jpg",
+                "MAIL": "https://czarna-bialostocka.bialystok.lasy.gov.pl/osrodek-edukacji-lesnej-stara-wyluszczarnia-im.-lesnikow-puszczy-knyszynskiej#.Yt7fz0UzZPY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.272383564014628,
+                    53.309365570296571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 185240.57,
+                "Y": 495093.93,
+                "RDLP": "RDLP Katowice",
+                "JEDN": "Nadleśnictwo Wisła",
+                "JEDN_MUZ": "Muzeum Świerka",
+                "KONTAKT": "43-478 Jaworzynka 812,\ntel. +48 33 855 63 13, +48 606 357 297",
+                "FOTO": "images/img4.jpg",
+                "MAIL": "https://wisla.katowice.lasy.gov.pl/izby-przyrodniczo-lesne/-/asset_publisher/R8hO/content/izby-przyrodniczo-lesne-nadlesnictwa-wisla/maximized#.Yt7f-98whPY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.932175551232682,
+                    49.534578358016738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 209040.67,
+                "Y": 492658.35,
+                "RDLP": "RDLP Katowice",
+                "JEDN": "Nadleśnictwo Ustroń",
+                "JEDN_MUZ": "Izba Kultury Leśnej i Łowieckiej Śląska Cieszyńskiego \"Dworek Myśliwski\"",
+                "KONTAKT": "ul. Głębiec 26,\nBrenna 43-438,\n tel. +48 33 853 64 96, +48 660 685 173",
+                "FOTO": "images/img5.jpg",
+                "MAIL": "https://www.szczecin.lasy.gov.pl/web/nadlesnictwo-izba-kultury-lesnej-i-lowieckiej-slaska-cieszynskiego-dworek-mysliwski-/polskie-lasy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.898058595584477,
+                    49.74869033423181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 319286.36,
+                "Y": 741652.55,
+                "RDLP": "RDLP Lublin",
+                "JEDN": "Nadleśnictwo Janów Lubelski - \nLKP „Lasy Janowskie”",
+                "JEDN_MUZ": "Wystawa przyrodnicza w Ośrodku Edukacji Ekologicznej – Lasy Janowskie",
+                "KONTAKT": "ul. Bohaterów Porytowego Wzgórza 35,\n23-300 Janów Lubelski,\n tel. +48 15 872 00 72",
+                "FOTO": "images/img6.jpg",
+                "MAIL": "https://janowlubelski.lublin.lasy.gov.pl/obiekty-edukacyjne/-/asset_publisher/5VzB/content/osrodek-edukacji-ekologicznej-lasy-janowskie#.Yt7gdUUzZPY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.422537444234845,
+                    50.690284050141415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 319336.96,
+                "Y": 741332.71,
+                "RDLP": "RDLP Lublin",
+                "JEDN": "Nadleśnictwo Janów Lubelski - \nLKP „Lasy Janowskie”",
+                "JEDN_MUZ": "Skansen taboru Leśnej Kolei Wąskotorowej",
+                "KONTAKT": "ul. Bohaterów Porytowego Wzgórza 35,\n23-300 Janów Lubelski,\n tel. +48 15 872 00 72",
+                "FOTO": "images/img7.jpg",
+                "MAIL": "https://janowlubelski.lublin.lasy.gov.pl/obiekty-edukacyjne/-/asset_publisher/5VzB/content/skansen-lesnej-kolejki-waskotorowej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.418979081239545,
+                    50.69064258270101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 408819.0,
+                "Y": 579105.0,
+                "RDLP": "RDLP Łódź",
+                "JEDN": "Nadleśnictwo Spała",
+                "JEDN_MUZ": "Dom Pamięci Walki i Męczeństwa Leśników i Drzewiarzy Polskich im. Adama Loreta",
+                "KONTAKT": "Spała,\n Aleja Prezydenta Ignacego\nMościckiego 21,\n97-215 Inowłódz,\ntel: +48 44 725 70 57",
+                "FOTO": "images/img8.jpg",
+                "MAIL": "https://spala.lodz.lasy.gov.pl/dom-pamieci-w-spale"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.140999058718673,
+                    51.540342921303271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 657589.4,
+                "Y": 656829.73,
+                "RDLP": "RDLP Olsztyn",
+                "JEDN": "Nadleśnictwo Strzałowo",
+                "JEDN_MUZ": "Izba Pamięci Ernsta Wiecherta",
+                "KONTAKT": "ul. Leśna 5, \n11-710 Piecki, \ntel. +48 89 742 14 77",
+                "FOTO": "images/img9.jpg",
+                "MAIL": "https://strzalowo.olsztyn.lasy.gov.pl/izba-pamieci-ernsta-wiecherta#.Yt7g9UUzZPY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.379759384684924,
+                    53.759370477188874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 693551.15,
+                "Y": 663115.14,
+                "RDLP": "RDLP Olsztyn",
+                "JEDN": "Nadleśnictwo Srokowo",
+                "JEDN_MUZ": "Ośrodek Edukacji Historyczno-Przyrodniczej \"Wilczy Szaniec\"",
+                "KONTAKT": "Gierłoż 5, \n11-400 Kętrzyn,            \n tel. +48 89 741 00 31, +48 89 741 00 21",
+                "FOTO": "images/img10.jpg",
+                "MAIL": "https://wilczyszaniec.olsztyn.lasy.gov.pl/osrodek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.494229134879557,
+                    54.080458520221214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 553738.84,
+                "Y": 244717.9,
+                "RDLP": "RDLP Szczecin",
+                "JEDN": "Nadleśnictwo Kłodawa",
+                "JEDN_MUZ": "Izba edukacji leśnej \"Korsakówka\"",
+                "KONTAKT": "ul. Gorzowska 31, \n66-415 Kłodawa, \ntel. +48 95 727 97 35",
+                "FOTO": "images/img11.jpg",
+                "MAIL": "https://klodawa.szczecin.lasy.gov.pl/obiekty-edukacyjne#.Yt7hWN8whPY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.212660295517667,
+                    52.788743307851348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 426742.68,
+                "Y": 443487.95,
+                "RDLP": "Ośrodek Kultury Leśnej w Gołuchowie",
+                "JEDN": "Ośrodek Kultury Leśnej w Gołuchowie",
+                "JEDN_MUZ": "Muzeum Leśnictwa",
+                "KONTAKT": "ul. Działyńskich 2, \n63-322 Gołuchów, \ntel. +48 62 761 50 45",
+                "FOTO": "images/img12.jpg",
+                "MAIL": "https://www.okl.lasy.gov.pl/muzeum-lesnictwa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.936025103934348,
+                    51.853141858193908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 332938.34,
+                "Y": 273136.12,
+                "RDLP": "Leśny Bank Genów Kostrzyca",
+                "JEDN": "Leśny Bank Genów Kostrzyca",
+                "JEDN_MUZ": "Arboretum Leśnego Banku Genów Kostrzyca",
+                "KONTAKT": "Miłków 300, \n58-535 Miłków, \ntel. +48 75 713 10 48",
+                "FOTO": "images/img13.jpg",
+                "MAIL": "https://www.lbg.lasy.gov.pl/informacje-o-arboretum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.778136254131198,
+                    50.818855426184875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 590956.44,
+                "Y": 656577.68,
+                "RDLP": "RDLP Olsztyn",
+                "JEDN": "Nadleśnictwo Kudypy",
+                "JEDN_MUZ": "Leśne Arboretum Warmii i Mazur",
+                "KONTAKT": "Kudypy 2a, \n11-036 Gietrzwałd,\n tel. +48 89 527 90 90",
+                "FOTO": "images/img14.jpg",
+                "MAIL": "https://kudypy.olsztyn.lasy.gov.pl/arboretum1#.Yt7h9UUzZPY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.380324243286811,
+                    53.765951516763778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "X": 655076.21,
+                "Y": 639728.44,
+                "RDLP": "RDLP Olsztyn",
+                "JEDN": "Nadleśnictwo Spychowo",
+                "JEDN_MUZ": "Muzeum Leśne",
+                "KONTAKT": "ul. Mazurska 3,\n 12-150 Spychowo,           \n  tel. +48 89 622 50 82",
+                "FOTO": "images/img15.jpg",
+                "MAIL": "https://spychowo.olsztyn.lasy.gov.pl/muzeum-lesne#.Yt7iIkUzZPY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.344244628820896,
+                    53.599440894854965
+                ]
+            }
+        }
+    ]
+}
